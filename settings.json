@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
-    "version": "1.21.1"
+    "ip": "Patildon67.aternos.me",
+    "port": 39493,
+    "version": "26.1"
   },
   "position": {
     "enabled": true,
@@ -30,8 +30,8 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
+        "I'm a bot set up by don",
+        "don don",
         "I like to play Minecraft!"
       ]
     },
